@@ -1,4 +1,4 @@
-<h1 align="center" background="url('http://i49.tinypic.com/2zs1z79.png')" >Hi 👋, I'm </h1>
+<h1 align="center"  >Hi 👋, I'm </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
